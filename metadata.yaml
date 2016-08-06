@@ -1,0 +1,26 @@
+_repo: An-Enemy-to-the-King--13-From-the-Recently-Discovered-Memoirs-of-the-Sieur-de-la-Tournoire_9965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, Robert Neilson
+    alias: Stephens, R. N. (Robert Neilson)
+    birthdate: 1867
+    deathdate: 1906
+    gutenberg_agent_id: '2907'
+    url: http://www.gutenberg.org/2009/agents/2907
+description: 'Sequel: The Bright Face of Danger, #30417.'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Henry IV, 1589-1610 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "An Enemy to the King\r\nFrom the Recently Discovered Memoirs of the Sieur\
+  \ de la Tournoire"
+url: http://www.gutenberg.org/ebooks/9965
