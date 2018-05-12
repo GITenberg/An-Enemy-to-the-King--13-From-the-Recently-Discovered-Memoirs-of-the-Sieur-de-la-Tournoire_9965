@@ -1,5 +1,8 @@
 _repo: An-Enemy-to-the-King--13-From-the-Recently-Discovered-Memoirs-of-the-Sieur-de-la-Tournoire_9965
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stephens, Robert Neilson
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2907'
     url: http://www.gutenberg.org/2009/agents/2907
 description: 'Sequel: The Bright Face of Danger, #30417.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9965#An-Enemy-to-the-King--13-From-the-Recently-Discovered-Memoirs-of-the-Sieur-de-la-Tournoire
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
